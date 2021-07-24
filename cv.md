@@ -31,14 +31,14 @@
 
 # Sample code
 
-
+```
  <html>
  <body>
 <h1>My site</h1>
 <p>The site is temporarily down. Technical work is underway. We are sorry for the inconvenience!</p>
 </body>
 </html>
-
+```
 
 # Work experience
 
